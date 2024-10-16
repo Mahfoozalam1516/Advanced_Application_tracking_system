@@ -1,7 +1,9 @@
 streamlit
 pandas
-numpy
-PyPDF2
-docx2txt
 scikit-learn
 nltk
+matplotlib
+seaborn
+textblob
+PyPDF2
+docx2txt
