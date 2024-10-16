@@ -1,0 +1,2 @@
+# Advanced_Application_tracking_system
+ The Application Tracking System (ATS) is a Streamlit-based web application designed to help job seekers optimize their resumes for specific job descriptions. By leveraging natural language processing techniques, the ATS provides insights into how well a resume matches a given job description, suggests improvements, and offers a comprehensive analysis of the application materials.
